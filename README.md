@@ -96,3 +96,13 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+# Productos Microservice
+
+## Dev
+
+1. Clonar repositorio
+2. Instalar dependencias
+3. crear archivo `.env` baseado en `.env.example`
+4. Ejecutat migracion de prima `npx prisma migrate dev --name init`
+5. Ejecutar `npm run start:dev`
